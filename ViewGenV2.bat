@@ -1,6 +1,6 @@
 @echo off
 mode con cols=41 lines=10
-title ViewGen | by CandidVault
+title ViewGen - by CandidVault
 
 set /a views=0
 set startpoint=%time%
